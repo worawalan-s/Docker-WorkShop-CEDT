@@ -11,7 +11,7 @@ checklist item in the Self-Verification section below — tick them off as you g
 
 ---
 
-## Self-Verification Checklist (10 items)
+## Self-Verification Checklist (10 items) 
 
 Tick each box as you complete it. The workshop is **done** when all 10 are ticked.
 
